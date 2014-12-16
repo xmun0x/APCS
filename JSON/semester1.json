@@ -411,5 +411,15 @@
 			"link": "https://docs.google.com/presentation/d/1UCn2vTokit8EktfHulW8kmPQSfvXgiOWJAv0ICBL8p8/pub?start=false&loop=false&delayms=3000"
 		}
 	]
+    },
+    {
+        "Week": 20,
+        "Reading": "Ch 1-5, 7",
+        "Resources": [
+		{
+			"text": "Midterm Review",
+			"link": "https://docs.google.com/document/d/1mdmIwSY_3-Z_THQmzD286WevE4T00NK1lZpUTOPbncY/pub"
+		}
+	]
     }
 ]
