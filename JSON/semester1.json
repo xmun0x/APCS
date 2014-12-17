@@ -409,16 +409,20 @@
 		{
 			"text": "Slides",
 			"link": "https://docs.google.com/presentation/d/1UCn2vTokit8EktfHulW8kmPQSfvXgiOWJAv0ICBL8p8/pub?start=false&loop=false&delayms=3000"
-		}
-	]
-    },
-    {
-        "Week": 20,
-        "Reading": "Ch 1-5, 7",
-        "Resources": [
+		},
 		{
 			"text": "Midterm Review",
 			"link": "https://docs.google.com/document/d/1mdmIwSY_3-Z_THQmzD286WevE4T00NK1lZpUTOPbncY/pub"
+		}
+	],
+        "Quiz": [
+		{
+			"text": "Array Quiz",
+			"link": "https://docs.google.com/document/d/1KsRLO8ogJ8zp4j-Aj-F5QDE5yIIZ_zOtOBi1D4havt0/pub"
+		},
+		{
+			"text": "Array Quiz Solutions",
+			"link": "https://docs.google.com/document/d/1EN7pvZPXlZnop2ulBZOtPL2vaYkLJ8MibJUXFjfG-h4/pub"
 		}
 	]
     }
