@@ -2,8 +2,19 @@
 [
     {
         "Week": 1,
-        "Reading": "",
-        "Resources": []
+        "Reading": "6.1, 6.2, 6.3",
+        "Homework": [
+		{
+			"text": "Assignment",
+			"link": "https://docs.google.com/document/d/1I9f5jFM6wFz4y3UnEtdK-WAkHmr9R1mqq3u2wlT8FlU/pub"
+		}
+	],
+        "Resources": [
+		{
+			"text" : "Slides",
+			"link": "https://docs.google.com/presentation/d/1R5tKQ5UiP1S6jBsoP1D7KeBM2DZr6VIz-Z3HroXSbYA/pub?start=false&loop=false&delayms=3000"
+		}
+	]
     },
     {
         "Week": 2,
