@@ -5,7 +5,7 @@ angular
     'table'
 ])
 .controller('ControllerTable', function($scope, CollectionTable) {
-    $scope.showTable = 1;
+    $scope.showTable = 2;
 
     $scope.table1 = $.extend(true, {}, CollectionTable());
     $scope.table2 = $.extend(true, {}, CollectionTable());
