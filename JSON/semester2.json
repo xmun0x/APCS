@@ -20,7 +20,12 @@
         "Week": 2,
         "Reading": "",
         "Homework": [],
-        "Resources": [],
+        "Resources": [
+		{
+			"text": "Coolbytes Reloaded",
+			"link": "https://docs.google.com/document/d/1yh6Jm0alrw19sgW37umbQsLkdMYC63uN1jcZJcAi3hs/pub"
+		}
+	],
         "Quiz": []
     },
     {
