@@ -14,6 +14,12 @@
 			"text" : "Slides",
 			"link": "https://docs.google.com/presentation/d/1R5tKQ5UiP1S6jBsoP1D7KeBM2DZr6VIz-Z3HroXSbYA/pub?start=false&loop=false&delayms=3000"
 		}
+	],
+	"Quiz": [
+		{
+			"text": "File Processing Quiz",
+			"link": "https://docs.google.com/document/d/1nYT05AmZuOgX83wrYYOfFofCo-i309hl5WcFHJbHX9A/pub"
+		}
 	]
     },
     {
