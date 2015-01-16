@@ -19,17 +19,34 @@
 		{
 			"text": "File Processing Quiz",
 			"link": "https://docs.google.com/document/d/1nYT05AmZuOgX83wrYYOfFofCo-i309hl5WcFHJbHX9A/pub"
+		},
+		{
+			"text": "File Processing Solutions",
+			"link": "https://docs.google.com/document/d/1Fjrn0Id7lDq5kwmwfUj3Yy0tbtEDdmleJJ0ajn8xrMQ/pub"
 		}
 	]
     },
     {
         "Week": 2,
-        "Reading": "",
-        "Homework": [],
+        "Reading": "8.1, 8.2, 8.3, 8.4",
+        "Homework": [
+		{
+			"text": "Assignment",
+			"link": "https://docs.google.com/document/d/1-W4DzTcq2_pCp0PlEkatyQKcNJ25-CQHIIAzOFSulbE/pub"
+		}
+	],
         "Resources": [
 		{
 			"text": "Coolbytes Rebooted",
 			"link": "https://docs.google.com/document/d/1yh6Jm0alrw19sgW37umbQsLkdMYC63uN1jcZJcAi3hs/pub"
+		},
+		{
+			"text": "Slides",
+			"link": "https://docs.google.com/presentation/d/16OhwnhYigqqmsQXfmen33VOkMdR7HnP9dQJKgn0tXjo/pub?start=false&loop=false&delayms=3000"
+		},
+		{
+			"text": "The Internet",
+			"link": "https://docs.google.com/presentation/d/13kgmcCHjZt2NGFOdF2LbH58yuDX9i3n0w3UIq-1dk_Q/pub?start=false&loop=false&delayms=3000"
 		}
 	],
         "Quiz": []
