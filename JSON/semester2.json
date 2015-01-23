@@ -55,7 +55,12 @@
         "Week": 3,
         "Reading": "",
         "Homework": [],
-        "Resources": [],
+        "Resources": [
+		{
+			"text": "Slides",
+			"link": "https://docs.google.com/presentation/d/1I_5V1UcYgYBmj4YBLdChkdA9GRhK5WH7pNXl5ykTRHg/pub?start=false&loop=false&delayms=3000"
+		}
+],
         "Quiz": []
     },
     {
