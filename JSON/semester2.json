@@ -53,15 +53,29 @@
     },
     {
         "Week": 3,
-        "Reading": "",
-        "Homework": [],
+        "Reading": "8.1, 8.2, 8.3, 8.4",
+        "Homework": [
+		{
+			"text": "Assignment",
+			"link": "https://docs.google.com/document/d/15vQNYQDvXBdkQVS350MX2_EnEKKu-o2BVJn5lXHJVVQ/pub"
+		}
+	],
         "Resources": [
 		{
 			"text": "Slides",
 			"link": "https://docs.google.com/presentation/d/1I_5V1UcYgYBmj4YBLdChkdA9GRhK5WH7pNXl5ykTRHg/pub?start=false&loop=false&delayms=3000"
 		}
 ],
-        "Quiz": []
+        "Quiz": [
+		{
+			"text": "Object Oriented Quiz",
+			"link": "https://docs.google.com/document/d/1gXbBrcXPKVgeLH_lKHJyMTXUurR9v153-L3Q7OmIwQU/pub"
+		},
+		{
+			"text": "Object Oriented Solutions",
+			"link": "https://docs.google.com/document/d/1Clwvxe8B0SRwfxcDIHIArs-BfEab78U4G-x1ieEWv9E/pub"
+		}
+	]
     },
     {
         "Week": 4,
