@@ -79,9 +79,19 @@
     },
     {
         "Week": 4,
-        "Reading": "",
-        "Homework": [],
-        "Resources": [],
+        "Reading": "9.1, 9.2, 9.3",
+        "Homework": [
+		{
+			"text": "Assignment",
+			"link": "https://docs.google.com/document/d/1aWclXNWBrywK6pqkDueLSqj9DPCgQNZ4FVHnlWg8B5c/pub"
+		}
+	],
+        "Resources": [
+		{
+			"text": "Slides",
+			"link": "https://docs.google.com/presentation/d/173xrRXLi5lPtFUFbqyJbdY-j1gNfucEeMBeFasdqLqY/pub?start=false&loop=false&delayms=3000"
+		}
+	],
         "Quiz": []
     },
     {
