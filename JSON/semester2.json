@@ -96,9 +96,19 @@
     },
     {
         "Week": 5,
-        "Reading": "",
-        "Homework": [],
-        "Resources": [],
+        "Reading": "9.5, 10.1, 10.2",
+        "Homework": [
+		{
+			"text": "Assignment",
+			"link": "https://docs.google.com/document/d/1tChBTYeLNOummESwPYYnaqnSNZMEl6nceyeCyU6qZhA/pub"
+		}
+	],
+        "Resources": [
+		{
+			"text": "Slides",
+			"link": "https://docs.google.com/presentation/d/16-GpB8jSsbOr4mnNtxkBpUBgngdRcDCfrKDat6KNyzI/pub?start=false&loop=false&delayms=3000"
+		}
+	],
         "Quiz": []
     },
     {
