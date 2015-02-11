@@ -113,9 +113,19 @@
     },
     {
         "Week": 6,
-        "Reading": "",
-        "Homework": [],
-        "Resources": [],
+        "Reading": "10.1, 10.2, 11.1",
+        "Homework": [
+		{
+			"text": "Assignment",
+			"link": "https://docs.google.com/document/d/17H_3uFCuvWiQkR8PJ2ZB82yj4jmr1fgJfHxMTaxhjmo/pub"
+		}
+		],
+        "Resources": [
+		{
+			"text": "Slides",
+			"link": "https://docs.google.com/presentation/d/1LTD3GU8hlv-uRHEItidLsWyxx8xxpVSeOpVdLzDhsps/pub?start=false&loop=false&delayms=3000"
+		}
+		],
         "Quiz": []
     },
     {
