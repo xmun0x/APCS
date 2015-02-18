@@ -130,9 +130,19 @@
     },
     {
         "Week": 7,
-        "Reading": "",
-        "Homework": [],
-        "Resources": [],
+        "Reading": "11.2, 11.3",
+        "Homework": [
+		{
+			"text": "Assignment",
+			"link": "https://docs.google.com/document/d/1wKQYVuzKlH0X2D88xTGCWBQgP4ZzP-StWxfx-OmKOGk/pub"
+		}
+		],
+        "Resources": [
+		{
+			"text": "Slides",
+			"link": "https://docs.google.com/presentation/d/1Fx_OWKSSlbrE3B8C-e_C3NeFzlIX-ryjEgMZIS9wmQI/pub?start=false&loop=false&delayms=3000"
+		}
+		],
         "Quiz": []
     },
     {
