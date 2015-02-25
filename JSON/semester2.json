@@ -147,9 +147,19 @@
     },
     {
         "Week": 8,
-        "Reading": "",
-        "Homework": [],
-        "Resources": [],
+        "Reading": "12",
+        "Homework": [
+		{
+			"text": "Assignment",
+			"link": "https://docs.google.com/document/d/1NTT9dUoqhJMOYOCl11QdYvQegN9b6M_ZZYkWIV6PGDY/pub"
+		}
+        ],
+        "Resources": [
+		{
+			"text": "Slides",
+			"link": "https://docs.google.com/presentation/d/1Hy4y2FcmYuO_usL-NGH5lkbPWqxVnfG7Ee3QerbZi-A/pub?start=false&loop=false&delayms=3000"
+		}
+        ],
         "Quiz": []
     },
     {
