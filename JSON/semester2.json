@@ -1,0 +1,206 @@
+
+[
+    {
+        "Week": 1,
+        "Reading": "6.1, 6.2, 6.3",
+        "Homework": [
+		{
+			"text": "Assignment",
+			"link": "https://docs.google.com/document/d/1I9f5jFM6wFz4y3UnEtdK-WAkHmr9R1mqq3u2wlT8FlU/pub"
+		}
+	],
+        "Resources": [
+		{
+			"text" : "Slides",
+			"link": "https://docs.google.com/presentation/d/1R5tKQ5UiP1S6jBsoP1D7KeBM2DZr6VIz-Z3HroXSbYA/pub?start=false&loop=false&delayms=3000"
+		}
+	],
+	"Quiz": [
+		{
+			"text": "File Processing Quiz",
+			"link": "https://docs.google.com/document/d/1nYT05AmZuOgX83wrYYOfFofCo-i309hl5WcFHJbHX9A/pub"
+		},
+		{
+			"text": "File Processing Solutions",
+			"link": "https://docs.google.com/document/d/1Fjrn0Id7lDq5kwmwfUj3Yy0tbtEDdmleJJ0ajn8xrMQ/pub"
+		}
+	]
+    },
+    {
+        "Week": 2,
+        "Reading": "8.1, 8.2, 8.3, 8.4",
+        "Homework": [
+		{
+			"text": "Assignment",
+			"link": "https://docs.google.com/document/d/1-W4DzTcq2_pCp0PlEkatyQKcNJ25-CQHIIAzOFSulbE/pub"
+		}
+	],
+        "Resources": [
+		{
+			"text": "Coolbytes Rebooted",
+			"link": "https://docs.google.com/document/d/1yh6Jm0alrw19sgW37umbQsLkdMYC63uN1jcZJcAi3hs/pub"
+		},
+		{
+			"text": "Slides",
+			"link": "https://docs.google.com/presentation/d/16OhwnhYigqqmsQXfmen33VOkMdR7HnP9dQJKgn0tXjo/pub?start=false&loop=false&delayms=3000"
+		},
+		{
+			"text": "The Internet",
+			"link": "https://docs.google.com/presentation/d/13kgmcCHjZt2NGFOdF2LbH58yuDX9i3n0w3UIq-1dk_Q/pub?start=false&loop=false&delayms=3000"
+		}
+	],
+        "Quiz": []
+    },
+    {
+        "Week": 3,
+        "Reading": "8.1, 8.2, 8.3, 8.4",
+        "Homework": [
+		{
+			"text": "Assignment",
+			"link": "https://docs.google.com/document/d/15vQNYQDvXBdkQVS350MX2_EnEKKu-o2BVJn5lXHJVVQ/pub"
+		}
+	],
+        "Resources": [
+		{
+			"text": "Slides",
+			"link": "https://docs.google.com/presentation/d/1I_5V1UcYgYBmj4YBLdChkdA9GRhK5WH7pNXl5ykTRHg/pub?start=false&loop=false&delayms=3000"
+		}
+],
+        "Quiz": [
+		{
+			"text": "Object Oriented Quiz",
+			"link": "https://docs.google.com/document/d/1gXbBrcXPKVgeLH_lKHJyMTXUurR9v153-L3Q7OmIwQU/pub"
+		},
+		{
+			"text": "Object Oriented Solutions",
+			"link": "https://docs.google.com/document/d/1Clwvxe8B0SRwfxcDIHIArs-BfEab78U4G-x1ieEWv9E/pub"
+		}
+	]
+    },
+    {
+        "Week": 4,
+        "Reading": "9.1, 9.2, 9.3",
+        "Homework": [
+		{
+			"text": "Assignment",
+			"link": "https://docs.google.com/document/d/1aWclXNWBrywK6pqkDueLSqj9DPCgQNZ4FVHnlWg8B5c/pub"
+		}
+	],
+        "Resources": [
+		{
+			"text": "Slides",
+			"link": "https://docs.google.com/presentation/d/173xrRXLi5lPtFUFbqyJbdY-j1gNfucEeMBeFasdqLqY/pub?start=false&loop=false&delayms=3000"
+		}
+	],
+        "Quiz": []
+    },
+    {
+        "Week": 5,
+        "Reading": "9.5, 10.1, 10.2",
+        "Homework": [
+		{
+			"text": "Assignment",
+			"link": "https://docs.google.com/document/d/1tChBTYeLNOummESwPYYnaqnSNZMEl6nceyeCyU6qZhA/pub"
+		}
+	],
+        "Resources": [
+		{
+			"text": "Slides",
+			"link": "https://docs.google.com/presentation/d/16-GpB8jSsbOr4mnNtxkBpUBgngdRcDCfrKDat6KNyzI/pub?start=false&loop=false&delayms=3000"
+		}
+	],
+        "Quiz": []
+    },
+    {
+        "Week": 6,
+        "Reading": "10.1, 10.2, 11.1",
+        "Homework": [
+		{
+			"text": "Assignment",
+			"link": "https://docs.google.com/document/d/17H_3uFCuvWiQkR8PJ2ZB82yj4jmr1fgJfHxMTaxhjmo/pub"
+		}
+		],
+        "Resources": [
+		{
+			"text": "Slides",
+			"link": "https://docs.google.com/presentation/d/1LTD3GU8hlv-uRHEItidLsWyxx8xxpVSeOpVdLzDhsps/pub?start=false&loop=false&delayms=3000"
+		}
+		],
+        "Quiz": []
+    },
+    {
+        "Week": 7,
+        "Reading": "11.2, 11.3",
+        "Homework": [
+		{
+			"text": "Assignment",
+			"link": "https://docs.google.com/document/d/1wKQYVuzKlH0X2D88xTGCWBQgP4ZzP-StWxfx-OmKOGk/pub"
+		}
+		],
+        "Resources": [
+		{
+			"text": "Slides",
+			"link": "https://docs.google.com/presentation/d/1Fx_OWKSSlbrE3B8C-e_C3NeFzlIX-ryjEgMZIS9wmQI/pub?start=false&loop=false&delayms=3000"
+		}
+		],
+        "Quiz": []
+    },
+    {
+        "Week": 8,
+        "Reading": "12",
+        "Homework": [
+		{
+			"text": "Assignment",
+			"link": "https://docs.google.com/document/d/1NTT9dUoqhJMOYOCl11QdYvQegN9b6M_ZZYkWIV6PGDY/pub"
+		}
+        ],
+        "Resources": [
+		{
+			"text": "Slides",
+			"link": "https://docs.google.com/presentation/d/1Hy4y2FcmYuO_usL-NGH5lkbPWqxVnfG7Ee3QerbZi-A/pub?start=false&loop=false&delayms=3000"
+		}
+        ],
+        "Quiz": []
+    },
+    {
+        "Week": 9,
+        "Reading": "",
+        "Resources": [],
+        "Quiz": []
+    },
+    {
+        "Week": 10,
+        "Reading": "",
+        "Resources": [],
+        "Homework": []
+    },
+    {
+        "Week": 11,
+        "Reading": "",
+        "Resources": []
+    },
+    {
+        "Week": 12,
+        "Reading": "",
+        "Resources": []
+    },
+    {
+        "Week": 13,
+        "Reading": "",
+        "Resources": [],
+        "Homework": [],
+        "Quiz": []
+    },
+    {
+        "Week": 14,
+        "Reading": "",
+        "Resources": [],
+        "Homework": []
+    },
+    {
+        "Week": 15,
+        "Reading": "",
+        "Resources": [],
+        "Homework": []
+    }
+]

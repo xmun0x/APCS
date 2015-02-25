@@ -21,7 +21,7 @@ angular
             isLoading : true,
         };
 
-    // List of keys that are properties for each object in `schools`
+    // List of keys that are properties for each object in loaded json
         var keys = [];
 
         var setKeys = function(arr) {
@@ -43,11 +43,11 @@ angular
             reverse : false,
             set     : function(key) {
                 this.latestInput = key;
-                doubleQuotedKey = "'" + key + "'";
-                if (this.value === doubleQuotedKey) {
-                    this.reverse = !this.reverse; 
+                if (this.value === key) {
+                    this.reverse = !this.reverse;
                 } else {
-                    this.value = doubleQuotedKey;
+                    this.reverse = false;
+                    this.value = key;
                 }
                 return this;
             }
@@ -57,7 +57,7 @@ angular
             var This = this;
             $http
                 .get(path)
-                .error(function() {
+                .error(function(error) {
                     throw ("Could not load JSON: " + error);
                 })
                 .success(function(data) {

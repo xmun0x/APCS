@@ -1,11 +1,7 @@
-# [APCS](http://whroman.github.io/APCS/)
+# [APCS](http://xmunoz.github.io/APCS/)
 
-Technologies used:
-    
-* [Sass](http://sass-lang.com/)
-* [Gulp](http://gulpjs.com/)
-* [Bower](http://bower.io)
-* [Angular](http://d3js.org/)
+## Introduction
+This is the source for an AP Computer Science class website, a course that I teach remotely through [TEALS](http://www.tealsk12.org/). TEALS is an awesome program! If you think you might like to teach computer science too, get in touch and I'll happily answer questions and/or put you in contact with the program coordinators.
 
 ##Application
 
@@ -76,7 +72,7 @@ root
     ├── js         // Nothing special
     ├── build      // Contains `built` versions of SCSS and JS files, along with sourcemaps
     └── scss
-        └── app.scss    // Only scss file that is compiled. Contains `@import`s for the rest of the scss 
+        └── init.scss    // Only scss file that is compiled. Contains `@import`s for the rest of the scss 
 ```
 
 ### Adding New JS Libraries
@@ -89,8 +85,8 @@ root
 ### Adding New JS Files
 
 * Declare the path to the new file in `[root]/Tasks/config/paths.js` as an Array item in `path.js.src`. The files will be concat'd in listed order.
-    
+
 
 ### Adding New SCSS Files
 
-* Include new stylesheets in `/Resources/scss/app.scss` using `@import "path/to/file.scss"`
+* Include new stylesheets in `/Resources/scss/init.scss` using `@import "relative/path/to/file.scss"`
