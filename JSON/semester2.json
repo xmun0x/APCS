@@ -143,7 +143,16 @@
 			"link": "https://docs.google.com/presentation/d/1Fx_OWKSSlbrE3B8C-e_C3NeFzlIX-ryjEgMZIS9wmQI/pub?start=false&loop=false&delayms=3000"
 		}
 		],
-        "Quiz": []
+        "Quiz": [
+            {
+                "text": "Week 7 Quiz",
+                "link": "https://docs.google.com/document/d/1Lfv-r_jUizhh6o_3c91SdJA7CzRc9I1F1LRArbZ_mXg/pub"
+            },
+            {
+                "text": "Week 7 Quiz Solutions",
+                "link": "https://docs.google.com/document/d/1qbMIHXKudNf3pRf7qB1SO-umuvRAeadzTyz1MZlfDZQ/pub"
+            }
+        ]
     },
     {
         "Week": 8,
@@ -164,8 +173,13 @@
     },
     {
         "Week": 9,
-        "Reading": "",
-        "Resources": [],
+        "Reading": "13.1, 13.2",
+        "Resources": [
+            {
+                "text": "Slides",
+                "link": "https://docs.google.com/presentation/d/1w37H9qdDuMAVwlGZ-wukuiv_BO_QFJma7ZFVlf9dV7I/pub?start=false&loop=false&delayms=3000"
+            }
+        ],
         "Quiz": []
     },
     {
