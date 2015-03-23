@@ -185,8 +185,18 @@
     {
         "Week": 10,
         "Reading": "",
-        "Resources": [],
-        "Homework": []
+        "Resources": [
+            {
+                "text": "Slides",
+                "link": "https://docs.google.com/presentation/d/1gAd6gqEwEaogplku4iJg1Hk1KK3TM_MsjVEmzAGq298/pub?start=false&loop=false&delayms=3000"
+            }
+        ],
+        "Homework": [
+            {
+                "text": "Assignment",
+                "link": "https://docs.google.com/document/d/1Iqp9TJWm0jnvckb0FTbAQ8X8LaSPr5BM9c_IoTVJKbI/pub"
+            }
+        ]
     },
     {
         "Week": 11,
