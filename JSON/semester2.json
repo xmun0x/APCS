@@ -200,8 +200,19 @@
     },
     {
         "Week": 11,
-        "Reading": "",
-        "Resources": []
+        "Reading": "14",
+        "Resources": [
+            {
+                "text": "Slides",
+                "link": "https://docs.google.com/presentation/d/1V-r8qnaze7JLKd6Dv8WfyieMuzxJKxcQyr_CAep87AE/pub?start=false&loop=false&delayms=3000"
+            }
+        ],
+        "Homework": [
+            {
+                "text": "Assignment",
+                "link": "https://docs.google.com/document/d/1MXUzgV3SSBCaXuGru7kuHSs0bhStBYen1wQ_FzNTegs/pub"
+            }
+        ]
     },
     {
         "Week": 12,
