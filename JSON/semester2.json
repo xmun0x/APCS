@@ -239,7 +239,16 @@
             }
         ],
         "Homework": [],
-        "Quiz": []
+        "Quiz": [
+            {
+                "text": "Week 13 Quiz",
+                "link": "https://docs.google.com/document/d/1byCZ4xjBoVKiELWmA-HG9O2myCjF062sPiQJ-OOB8jo/pub"
+            },
+            {
+                "text": "Week 13 Quiz Solutions",
+                "link": "https://docs.google.com/document/d/1-80QmFbuJ4Ctx4Fl-MUHccIDgqF8-ggBpVkJkWd2lUM/pub"
+            }
+        ]
     },
     {
         "Week": 14,
