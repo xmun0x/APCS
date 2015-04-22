@@ -252,12 +252,29 @@
     },
     {
         "Week": 14,
+        "Reading": "17",
+        "Resources": [
+            {
+                "text": "Slides",
+                "link": "https://docs.google.com/presentation/d/1ctRz110XD1eUOO9JsxtUshdLn3ZRXimrWhgpGjD2oXs/pub?start=false&loop=false&delayms=3000"
+            }
+        ],
+        "Homework": []
+    },
+    {
+        "Week": 15,
         "Reading": "",
         "Resources": [],
         "Homework": []
     },
     {
-        "Week": 15,
+        "Week": 16,
+        "Reading": "",
+        "Resources": [],
+        "Homework": []
+    },
+    {
+        "Week": 17,
         "Reading": "",
         "Resources": [],
         "Homework": []
