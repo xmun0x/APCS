@@ -259,7 +259,12 @@
                 "link": "https://docs.google.com/presentation/d/1ctRz110XD1eUOO9JsxtUshdLn3ZRXimrWhgpGjD2oXs/pub?start=false&loop=false&delayms=3000"
             }
         ],
-        "Homework": []
+        "Homework": [
+            {
+                "text": "Assignment",
+                "link": "https://docs.google.com/document/d/12MDznSQkVGqFO28wgF_gfv849XH3K6FChzxcQiS1W0w/pub"
+            }
+        ]
     },
     {
         "Week": 15,
@@ -269,8 +274,13 @@
     },
     {
         "Week": 16,
-        "Reading": "",
-        "Resources": [],
+        "Reading": "18",
+        "Resources": [
+            {
+                "text": "Slides",
+                "link": "https://docs.google.com/presentation/d/1kf_YVIM-ZFALGzNx-78mKJhQ-XMo9pQGX3wgwo8ZMt0/pub?start=false&loop=false&delayms=3000"
+            }
+        ],
         "Homework": []
     },
     {
