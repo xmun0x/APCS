@@ -296,7 +296,12 @@
     {
         "Week": 17,
         "Reading": "",
-        "Resources": [],
+        "Resources": [
+            {
+                "text": "Slides",
+                "link": "https://docs.google.com/presentation/d/1AIt-vwKEy5Y8qEkItySKV6jM5yuZlj-QN8HwgGIMsVE/pub?start=false&loop=false&delayms=3000"
+            }
+        ],
         "Homework": []
     }
 ]
