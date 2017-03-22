@@ -1,9 +1,9 @@
-# [APCS](http://xmunoz.github.io/APCS/)
+# [APCS](http://xmun0x.github.io/APCS/)
 
 ## Introduction
 This is the source for an AP Computer Science class website, a course that I teach remotely through [TEALS](http://www.tealsk12.org/). TEALS is an awesome program! If you think you might like to teach computer science too, get in touch and I'll happily answer questions and/or put you in contact with the program coordinators.
 
-##Application
+## Application
 
 ### Requirements
 To work on the front-end code of the application, you'll need to have the following CLIs installed before continuing.
